@@ -38,10 +38,3 @@ We implemented and compared the performance of the following classification mode
 | **SVM**           | **97% ✅** |
 | Naive Bayes       | 92%      |
 | Random Forest     | 96%      |
-
-## 📂 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/breast-cancer-prediction.git
-   cd breast-cancer-prediction
